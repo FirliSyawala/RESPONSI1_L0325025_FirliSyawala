@@ -1,0 +1,10 @@
+========== MANIFES PENGIRIMAN ==========
+Kode Barang | Nama Barang | Kategori | Berat (kg)
+--------------------------------------------------
+EDX-001 | Beras | Pangan | 2.0 kg
+EDX-002 | Laptop | Elektronik | 1.5 kg
+EDX-003 | Celana | Sandang | 1.0 kg
+
+Total barang: 3
+Total berat muatan: 4.5 kg
+Label armada: Mobil Pickup
